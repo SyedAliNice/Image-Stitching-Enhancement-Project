@@ -1,6 +1,6 @@
 
 # 📸 Image Stitching & Enhancement Project
-![image alt]()
+![image alt](https://github.com/SyedAliNice/Image-Stitching-Enhancement-Project/blob/2795d0da3d0d756dc09756acb9ab844d495a8659/a-digital-illustration-of-a-team-of-rese_CPR6XTysT3Wu43rwZqESoA_YYdMzuw-SFKYog88dAsuGg-fotor-2025040714309.jpg)
 
 #   🔍 Overview
 
